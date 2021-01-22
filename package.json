@@ -1,6 +1,6 @@
 {
   "name": "ued-vue-icon",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ZR UED Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
